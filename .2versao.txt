@@ -1,1 +1,1 @@
-oi
+agora estou começando a me familiarizar com os comandos do git
