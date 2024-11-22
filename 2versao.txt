@@ -1,0 +1,1 @@
+Apagamento da mensagem anterior. Porém, utilizando apenas a versão "touch" não funcionou. 
